@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742749643 source:c:\users\bcg\desktop\kauan\laboratório de programação i\operacoescommatrizes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
